@@ -1,0 +1,13 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Introduction al AP}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Generalización}{11}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Solución num\'erica de EDP con AP }{11}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Ghixhe++}{15}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Ghixhe++}{18}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Aproximaci\'on de campos vectoriales }{19}{0}{6}

@@ -1,0 +1,12 @@
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/nn_lib.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/fterm_lib.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/domain_lib.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/utils_lib.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/optimizer_lib.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/scheduler_lib.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/tCClassification_cpp.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/poisson2D_cpp.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/vectorfield2D_cpp.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/interp1D_cpp.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/ALL_BUILD.dir
+C:/Users/alfredo.munguia.INFOTEC/source/repos4/guixhe-main/CMakeFiles/ZERO_CHECK.dir
